@@ -85,4 +85,4 @@ while True:
         print(" ## ALERTA ## Se ha detectado que el servidor CONTROLADOR no esta disponible")
         print(" ## ALERTA ## Se ha notificado al administrador de la red")
 
-    time.sleep(5)  # 300 segundos equivalen a 5 minutos del tiempo que necesitamos.
+    time.sleep(300)  # 300 segundos equivalen a 5 minutos del tiempo que necesitamos.
